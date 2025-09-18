@@ -1,1 +1,5 @@
 .ipynb_checkpoints/*
+pascal-features.zip
+pascal-features/
+train_instances.csv
+val_instances.csv
